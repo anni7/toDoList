@@ -1,0 +1,9 @@
+[
+   {"completed": true, "id": 1, "name": "brushed my teeth"},
+   {"completed": true, "id": 2, "name": "had coffee"},
+   {"completed": false, "id": 3, "name": "getting, how to work terminal"},
+   {"completed": true, "id": 4, "name": "I had a break through with terminal"},
+   {"completed": true, "id": 5, "name": "dont worry, will not work for assignment haha"},
+   {"completed": true, "id": 6, "name": "next class, true test, am I connected"},
+   {"completed": true, "id": 7, "name": "working with PUT Request"}
+]
