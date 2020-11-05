@@ -17,6 +17,6 @@ function getTodos(req, res) {
 app.get("/", getTodos);
 
 function appStart(){
-    console.log("To-Do-Api listening at " + port);
+    console.log("toDoList listening at " + port);
 }
 app.listen(port, appStart);
